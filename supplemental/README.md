@@ -1,3 +1,3 @@
 ## W281 Final Project Supplemental Report Material
 
-Contains code for our CNN classifier and our black box ResNet152-embedding model.
+Contains code for our basic [CNN classifier](mavoc_basic_cnn.ipynb) and our [black box ResNet152-embedding model](learned_feature.ipynb).
