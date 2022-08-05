@@ -12,5 +12,8 @@ The W281 final project main consolidated notebook and report is located in the f
    2.2. HOG and Pixel Feature Engineering <br/>
       * PCA Dimensionality Reduction and Tsne visualization <br/>
       * Classification on PCA reduced HOG Features <br/>
+      2.2.1. Classification on PCA reduced Pixel and HOG Features <br/>
+      * 2.2.1.1 kNN Classification for PCA and tSNE applied data <br/>
+      * 2.2.1.2 Linear and rbf SVC for PCA dimensionality reduced data <br/>
 3. Learned Feature Vector Design & Classification <br/>
 4. Conclusion <br/>
