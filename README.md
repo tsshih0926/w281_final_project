@@ -8,12 +8,11 @@ The W281 final project main consolidated notebook and report is located in the f
    1.2. Data Exploration <br/>
 2. Non-Learned Feature Vector Design & Classification <br/>
    2.1. Edge and Shape Detection <br/>
-      * k-NN Classification Using Feature Engineered Shapes <br/>
+      * 2.1.1. k-NN Classification Using Feature Engineered Shapes <br/>
    2.2. HOG and Pixel Feature Engineering <br/>
-      * PCA Dimensionality Reduction and Tsne visualization <br/>
-      * Classification on PCA reduced HOG Features <br/>
-      2.2.1. Classification on PCA reduced Pixel and HOG Features <br/>
-      * 2.2.1.1 kNN Classification for PCA and tSNE applied data <br/>
-      * 2.2.1.2 Linear and rbf SVC for PCA dimensionality reduced data <br/>
+      * 2.2.1. PCA Dimensionality Reduction and Tsne visualization <br/>
+      * 2.2.2. Classification on PCA reduced Pixel and HOG Features <br/>
+        * 2.2.2.1 kNN Classification for PCA and tSNE applied data <br/>
+        * 2.2.2.2 Linear and rbf SVC for PCA dimensionality reduced data <br/>
 3. Learned Feature Vector Design & Classification <br/>
 4. Conclusion <br/>
