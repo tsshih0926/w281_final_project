@@ -1,7 +1,7 @@
 # w281_final_project
 _Authors: Justin Jeng, Shirley Zhong, and Tiffany Shih_
 
-The W281 final project main consolidated notebook and report is located in the file "W281_Final_Section2_Consolidated_Justin_Jeng_ShirleyZhong_TiffanyShih.ipynb". The report is organized as outlined below:
+The W281 final project main consolidated notebook and report is located here [W281_Final_Section2_Consolidated_Justin_Jeng_ShirleyZhong_TiffanyShih.ipynb](W281_Final_Section2_Consolidated_JJ_SZ_TS.ipynb). The report is organized as outlined below:
 
 1. Data Exploration and Image Pre-Processing <br/>
    1.1. Data Split <br/>
